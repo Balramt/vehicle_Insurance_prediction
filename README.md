@@ -1,4 +1,4 @@
-# vehicle_Insurance_prediction
+# Vehicle_Insurance_prediction
 
 In this guide, we will learn how to do training a machine learning model with DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier and BaggingClassifier. First, we will do exploratory data analysis to understand the data. We will apply label encoding, K-Means algorithm and examine correlation map, what our dataset contains, whether there is a missing value or not.
 
